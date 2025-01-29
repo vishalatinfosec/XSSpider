@@ -29,7 +29,7 @@ Before using this tool, ensure you have the following installed:
 ### Clone the repository
 
 ```bash
-https://github.com/vishalatinfosec/XSSpider/XSSpider.git
+https://github.com/vishalatinfosec/XSSpider.git
 ```
 ```bash
 cd XSSpider
